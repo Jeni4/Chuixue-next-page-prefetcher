@@ -6,6 +6,10 @@
 // @author       Jeni4
 // @match        http://www.chuixue.com/manhua/*/*.html*
 // @grant        none
+// @downloadURL  https://github.com/Jeni4/Chuixue-next-page-prefetcher/raw/master/chuixue-next-page-prefetcher.user.js
+// @updateURL    https://github.com/Jeni4/Chuixue-next-page-prefetcher/raw/master/chuixue-next-page-prefetcher.user.js
+// @license
+// @copyright
 // ==/UserScript==
 
 /* Static Variables */
