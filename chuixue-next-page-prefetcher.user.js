@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Chuixue next-page prefetcher
 // @namespace    https://github.com/Jeni4/Chuixue-next-page-prefetcher/
-// @version      1.0.1.1
+// @version      1.0.1.2
 // @description  Prefetches the next page when viewing a manhua chapter on chuixue.com so the surfing experience is percived much more smoothly.
 // @author       Jeni4
 // @match        http://www.chuixue.com/manhua/*/*.html*
 // @grant        none
-// @downloadURL  https://github.com/Jeni4/Chuixue-next-page-prefetcher/raw/master/chuixue-next-page-prefetcher.user.js
-// @updateURL    https://github.com/Jeni4/Chuixue-next-page-prefetcher/raw/master/chuixue-next-page-prefetcher.user.js
+// @downloadURL  https://openuserjs.org/install/Jeni4/Chuixue_next-page_prefetcher.user.js
+// @updateURL    https://openuserjs.org/install/Jeni4/Chuixue_next-page_prefetcher.user.js
 // @license
 // @copyright
 // ==/UserScript==
