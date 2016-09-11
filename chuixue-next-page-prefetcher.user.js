@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Chuixue next-page prefetcher
-// @namespace    http://www.chuixue.com/manhua/
-// @version      1.0.1
+// @namespace    https://github.com/Jeni4/Chuixue-next-page-prefetcher/
+// @version      1.0.1.1
 // @description  Prefetches the next page when viewing a manhua chapter on chuixue.com so the surfing experience is percived much more smoothly.
 // @author       Jeni4
 // @match        http://www.chuixue.com/manhua/*/*.html*
