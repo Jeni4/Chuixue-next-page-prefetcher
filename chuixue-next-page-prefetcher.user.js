@@ -7,7 +7,7 @@
 // @match        http://www.chuixue.com/manhua/*/*.html*
 // @grant        none
 // @downloadURL  https://openuserjs.org/src/scripts/Jeni4/Chuixue_next-page_prefetcher.meta.js
-// @updateURL    https://openuserjs.org/meta/Jeni4/Chuixue_next-page_prefetcher.meta.js
+// @updateURL    https://github.com/Jeni4/Chuixue-next-page-prefetcher/raw/master/chuixue-next-page-prefetcher.user.js
 // ==/UserScript==
 
 /* Static Variables */
